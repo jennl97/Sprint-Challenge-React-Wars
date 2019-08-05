@@ -28,7 +28,6 @@ function SWCards (props) {
             <p>weight: {props.mass} kilos</p>
             <p>hair color: {props.hairColor}</p>
             <p>eye color: {props.eyeColor}</p>
-            
             </Wrapper>
            
         </div>
