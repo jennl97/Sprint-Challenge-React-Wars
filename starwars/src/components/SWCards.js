@@ -29,7 +29,6 @@ function SWCards (props) {
             <p>hair color: {props.hairColor}</p>
             <p>eye color: {props.eyeColor}</p>
             </Wrapper>
-           
         </div>
     )
 }
